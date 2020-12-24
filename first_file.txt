@@ -1,4 +1,3 @@
 New text on my file
 
-Text on master branch
-
+The text added in branch1
