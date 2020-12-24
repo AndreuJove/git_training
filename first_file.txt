@@ -1,1 +1,3 @@
 New text on my file
+
+The text added in branch1
